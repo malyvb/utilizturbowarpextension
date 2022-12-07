@@ -2,7 +2,7 @@
 // We use class syntax to define our extension object
 // This isn't actually necessary, but it tends to look the best
 
-class MyExtension {
+class croatiautiliz {
   /**
    * Scratch will call this method *once* when the extension loads.
    * This method's job is to tell Scratch things like the extension's ID, name, and what blocks it supports.
